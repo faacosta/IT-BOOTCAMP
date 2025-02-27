@@ -1,7 +1,9 @@
+package meli.bootcamp;
+
 import java.util.Scanner;
 
-public class AumentoSueldo {
-
+public class App {
+    
     public static void main(String[] args) {
         
         System.out.println("\n" + "=".repeat(60) + "\nCÁLCULO DE SUELDO\n" + "=".repeat(60));
@@ -33,7 +35,7 @@ public class AumentoSueldo {
         System.out.println("-".repeat(60));
         System.out.println(String.format("El nuevo sueldo del empleado (DNI: %s) es de: $%s", dni, Math.round(sueldoConAumento)));
         System.out.println("=".repeat(60));
-        
+
     }
-    
+
 }
