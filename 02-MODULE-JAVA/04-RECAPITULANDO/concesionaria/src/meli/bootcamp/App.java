@@ -47,7 +47,7 @@ public class App {
         System.out.print("\u001B[0m");
     }
 
-    private static void mostrarMenoresMil(Garaje garaje) {
+    private static void mostrarMenoresIgualesMil(Garaje garaje) {
         System.out.print("\u001B[33m");
         System.out.println("VEHICULOS CON COSTO NO MAYORES A $1.000,00");
         System.out.println("-".repeat(60));
@@ -105,7 +105,7 @@ public class App {
 
         System.out.println("=".repeat(60));
 
-        mostrarMenoresMil(garaje);
+        mostrarMenoresIgualesMil(garaje);
 
         System.out.println("=".repeat(60));
 
