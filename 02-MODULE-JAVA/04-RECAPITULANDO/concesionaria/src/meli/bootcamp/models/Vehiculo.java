@@ -9,7 +9,7 @@ public class Vehiculo {
     private Double costo;
 
     public Vehiculo() {
-        
+        // Method Not Implemented
     }
 
     public Vehiculo(String marca, String modelo, Double costo) {
