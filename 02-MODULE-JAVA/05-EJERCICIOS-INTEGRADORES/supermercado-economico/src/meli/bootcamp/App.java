@@ -91,7 +91,7 @@ public class App {
         List<Producto> productos = List.of(
             new Producto("PRO001", "TELEVISOR NOBLEX", 2, 9856.9D),
             new Producto("PRO002", "PARLANTE THONET & VANDER", 1, 6857.4D),
-            new Producto("PRO003", "MACKBOOK PRO M3", 1, 98879894.3D),
+            new Producto("PRO003", "MACKBOOK PRO M3", 1, 98894.3D),
             new Producto("PRO004", "TECLADO LOGITECH", 1, 1543.9D),
             new Producto("PRO005", "MOUSE LOGITECH", 1, 2432.0D)
         );

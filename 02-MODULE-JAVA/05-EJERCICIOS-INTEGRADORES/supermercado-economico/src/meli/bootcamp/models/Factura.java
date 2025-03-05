@@ -47,6 +47,7 @@ public class Factura {
         builder.append("\nDATOS DEL CLIENTE:").append("\n").append(this.cliente);
         builder.append("\n").append("-".repeat(60));
         builder.append("\nDATOS DE LA FACTURA:");
+        builder.append("\n - TOTAL: $").append(this.calcularTotal());
         builder.append("\n - CÓDIGO: ").append(this.codigo);
         builder.append("\n - PRODUCTOS: \n");
 
