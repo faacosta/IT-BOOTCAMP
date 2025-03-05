@@ -52,5 +52,10 @@ public class Producto {
     public void setCostoUnitario(Double costoUnitario) {
         this.costoUnitario = costoUnitario;
     }
+
+    @Override
+    public String toString() {
+        return String.format("  # %s (%s) - %s - $%s", this.codigo, this.nombre, this.cantidadComprada, this.costoUnitario);
+    }
     
 }
