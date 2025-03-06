@@ -31,7 +31,7 @@
           <mxGeometry y="196" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="TT5KnXcupjvuqfzOa9hg-11" value="Carrera" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="220" width="240" height="238" as="geometry" />
+          <mxGeometry x="540" y="220" width="240" height="264" as="geometry" />
         </mxCell>
         <mxCell id="TT5KnXcupjvuqfzOa9hg-12" value="- distancia: Float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TT5KnXcupjvuqfzOa9hg-11">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
@@ -59,6 +59,9 @@
         </mxCell>
         <mxCell id="TT5KnXcupjvuqfzOa9hg-39" value="+ eliminarVehiculo(String): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TT5KnXcupjvuqfzOa9hg-11">
           <mxGeometry y="212" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="TT5KnXcupjvuqfzOa9hg-40" value="+ definirGanador(): Vehiculo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="TT5KnXcupjvuqfzOa9hg-11">
+          <mxGeometry y="238" width="240" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TT5KnXcupjvuqfzOa9hg-20" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TT5KnXcupjvuqfzOa9hg-16">
           <mxGeometry x="-0.875" y="-11" relative="1" as="geometry">
