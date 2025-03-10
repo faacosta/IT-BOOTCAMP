@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: concesionaria-autos
+
+server:
+  servlet:
+    context-path: /api
