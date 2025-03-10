@@ -1,0 +1,158 @@
+[
+    {
+        "brand": "Chevrolet",
+        "model": "Corsa",
+        "manufacturingDate": "2000-11-20",
+        "numberOfKilometers": 115000,
+        "doors": 5,
+        "price": 90000,
+        "currency": "AR",
+        "countOfOwners": 2,
+        "services": [
+            {
+                "date": "2003-05-20",
+                "kilometers": 60000,
+                "descriptions": "Change air filters"
+            }
+        ]
+    },
+    {
+        "brand": "Ford",
+        "model": "Focus",
+        "manufacturingDate": "2015-02-15",
+        "numberOfKilometers": 75000,
+        "doors": 5,
+        "price": 200000,
+        "currency": "AR",
+        "countOfOwners": 1,
+        "services": [
+            {
+                "date": "2017-06-10",
+                "kilometers": 30000,
+                "descriptions": "Oil change"
+            },
+            {
+                "date": "2018-08-15",
+                "kilometers": 50000,
+                "descriptions": "Tire rotation"
+            }
+        ]
+    },
+    {
+        "brand": "Volkswagen",
+        "model": "Golf",
+        "manufacturingDate": "2018-03-22",
+        "numberOfKilometers": 30000,
+        "doors": 5,
+        "price": 250000,
+        "currency": "AR",
+        "countOfOwners": 1,
+        "services": []
+    },
+    {
+        "brand": "Toyota",
+        "model": "Corolla",
+        "manufacturingDate": "2017-09-10",
+        "numberOfKilometers": 40000,
+        "doors": 4,
+        "price": 240000,
+        "currency": "AR",
+        "countOfOwners": 1,
+        "services": [
+            {
+                "date": "2018-11-12",
+                "kilometers": 20000,
+                "descriptions": "Brake pads replaced"
+            }
+        ]
+    },
+    {
+        "brand": "Renault",
+        "model": "Sandero",
+        "manufacturingDate": "2019-06-05",
+        "numberOfKilometers": 15000,
+        "doors": 5,
+        "price": 180000,
+        "currency": "AR",
+        "countOfOwners": 1,
+        "services": []
+    },
+    {
+        "brand": "Peugeot",
+        "model": "208",
+        "manufacturingDate": "2016-11-30",
+        "numberOfKilometers": 60000,
+        "doors": 5,
+        "price": 175000,
+        "currency": "AR",
+        "countOfOwners": 2,
+        "services": [
+            {
+                "date": "2017-12-15",
+                "kilometers": 45000,
+                "descriptions": "Inspection and maintenance"
+            }
+        ]
+    },
+    {
+        "brand": "Nissan",
+        "model": "Versa",
+        "manufacturingDate": "2020-01-20",
+        "numberOfKilometers": 10000,
+        "doors": 4,
+        "price": 220000,
+        "currency": "AR",
+        "countOfOwners": 1,
+        "services": []
+    },
+    {
+        "brand": "Hyundai",
+        "model": "I30",
+        "manufacturingDate": "2018-04-10",
+        "numberOfKilometers": 20000,
+        "doors": 5,
+        "price": 210000,
+        "currency": "AR",
+        "countOfOwners": 1,
+        "services": []
+    },
+    {
+        "brand": "Kia",
+        "model": "Rio",
+        "manufacturingDate": "2017-07-25",
+        "numberOfKilometers": 35000,
+        "doors": 5,
+        "price": 195000,
+        "currency": "AR",
+        "countOfOwners": 1,
+        "services": [
+            {
+                "date": "2018-01-10",
+                "kilometers": 25000,
+                "descriptions": "Battery replacement"
+            }
+        ]
+    },
+    {
+        "brand": "Fiat",
+        "model": "Punto",
+        "manufacturingDate": "2016-05-05",
+        "numberOfKilometers": 80000,
+        "doors": 5,
+        "price": 90000,
+        "currency": "AR",
+        "countOfOwners": 3,
+        "services": [
+            {
+                "date": "2018-04-02",
+                "kilometers": 50000,
+                "descriptions": "Oil change"
+            },
+            {
+                "date": "2019-10-20",
+                "kilometers": 75000,
+                "descriptions": "Tire change"
+            }
+        ]
+    }
+]
